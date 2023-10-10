@@ -11,7 +11,7 @@ This repository contains a simple Todo List web app built using CSS and JavaScri
 
 ## Live Demo
 
-You can check out the live demo of the Todo List web app.
+You can check out the live demo of the Todo List web app [here](https://giimyy.github.io/todo_app/).
 
 ## Screenshots
 
